@@ -1,0 +1,913 @@
+
+
+RELABLING WITH IVS - 08/06/2020 22:24:15
+-----------------Makuhita, 2020-01-11, MapleGlen, _PA, 15-13-15
+Makuhita, 2019-09-18, Pittsburgh, _Pitt, 13-14-13
+Makuhita, 2019-09-18, Pittsburgh, _Pitt, 13-14-13
+Hariyama, 2020-05-16, NorthWildwood, _NJ, 14-14-15
+Nosepass, 2020-05-15, Wildwood, _NJ, 13-14-12
+Skitty, 2019-09-11, Pittsburgh, _Pitt, 13-15-12
+Delcatty, 2019-10-10, Pittsburgh, _Pitt, 12-14-13
+Delcatty, 2019-11-10, Pittsburgh, _Pitt, 12-15-11
+Sableye, 2019-10-21, Pittsburgh, _Pitt, 14-14-15
+Sableye, 2019-10-21, Pittsburgh, _Pitt, 14-14-15
+Mawile, 2019-12-08, Pittsburgh, _Pitt, 13-14-11
+Aggron, 2019-09-03, Pittsburgh, _Pitt, 13-13-14
+Medicham, 2019-09-05, Pittsburgh, _Pitt, 15-13-14
+Medicham, 2019-09-05, Pittsburgh, _Pitt, 15-13-14
+Electrike, 2019-12-15, Pittsburgh, _Pitt, 15-15-12
+Manectric, 2020-05-16, NorthWildwood, _NJ, 14-11-14
+Gulpin, 2020-05-17, MiddleTownship, _NJ, 11-15-13
+Sharpedo, 2019-08-29, Pittsburgh, _Pitt, 13-15-15
+Wailmer, 2020-01-27, Ambler, _Fort, 15-14-12
+Wailmer, 2019-08-10, Washington, _WA, 12-14-15
+Numel, 2020-05-20, FortWashington, _Fort, 12-14-14
+Numel, 2020-01-23, Philadelphia, _Phila, 14-14-13
+Numel, 2020-01-23, Philadelphia, _Phila, 14-14-13
+Camerupt, 2020-05-16, NorthWildwood, _NJ, 15-13-12
+Spoink, 2019-09-10, Pittsbu, _N/A, 4-4-4
+Grumpig, 2019-11-20, Pittsburgh, _Pitt, 12-14-13
+Spinda, 2019-09-03, Pittsburgh, _Pitt, 15-15-12
+Trapinch, 2019-10-12, FortWashington, _Fort, 14-15-15
+Trapinch, 2019-10-12, Pittsburgh, _Pitt, 12-13-13
+Trapinch, 2019-10-12, Pittsburgh, _Pitt, 13-13-15
+Flygon, 2019-10-12, Pittsburgh, _Pitt, 14-15-14
+Flygon, 2019-10-12, Pittsburgh, _Pitt, 14-15-14
+Cacturne, 2019-09-01, Longport, _NJ, 10-14-15
+Swablu, 2020-01-27, Philadelphia, _Phila, 14-11-12
+Swablu, 2019-09-11, Pittsburgh, _Pitt, 13-15-13
+Swablu, 2020-01-06, FortWashington, _Fort, 12-15-14
+Swablu, 2020-01-06, FortWashington, _Fort, 12-15-14
+Swablu, 2019-09-09, Pittsburgh, _Pitt, 12-14-15
+Seviper, 2019-11-19, Pittsburgh, _Pitt, 10-13-15
+Barboach, 2019-09-19, Pittsburgh, _Pitt, 5-5-5
+Whiscash, 2019-08-28, Pittsburgh, _Pitt, 13-13-13
+Corphish, 2019-08-24, Pittsburgh, _Pitt, 13-15-11
+Baltoy, 2020-02-14, NewYork, _NY, 15-13-11
+Baltoy, 2019-09-27, Pittsburgh, _Pitt, 11-12-15
+Claydol, 2020-05-17, Oreland, _Fort, 14-12-11
+Anorith, 2020-01-19, Philadelphia, _Phila, 13-15-15
+Anorith, 2020-01-19, Philadelphia, _Phila, 13-15-15
+Feebas, 2020-05-10, Dresher, _Fort, 15-12-14
+Milotic, 2020-05-25, Philadelphia, _Phila, 14-12-13
+Castform, 2019-08-30, Harrisonville, _PA, 13-15-12
+Absol, 2020-05-17, NorthWildwood, _NJ, 15-15-14
+Snorunt, 2019-10-07, Pittsburgh, _Pitt, 15-12-10
+Snorunt, 2019-09-12, Pittsburgh, _Pitt, 11-12-15
+Spheal, 2019-12-04, Pittsburgh, _Pitt, 12-13-14
+Sealeo, 2019-09-20, Pittsburgh, _Pitt, 9-14-14
+Clamperl, 2020-06-01, Wildwood, _NJ, 13-11-14
+Clamperl, 2020-05-17, Oreland, _Fort, 14-15-11
+Clamperl, 2019-08-29, Pittsburgh, _Pitt, 12-13-12
+Bagon, 2020-05-16, Wildwood, _NJ, 12-14-14
+Metagross, 2019-08-23, Somerville, _MA, 15-11-15
+Metagross, 2020-05-11, Oreland, _Fort, 11-12-14
+Latias, 2019-08-31, NorthWildwood, _NJ, 15-12-11
+Kyogre, 2019-12-06, Pittsburgh, _Pitt, 14-13-15
+Kyogre, 2019-11-03, Pittsburgh, _Pitt, 12-13-14
+Deoxys, 2019-09-10, Pittsburgh, _Pitt, 15-10-12
+Turtwig, 2020-01-01, Oreland, _Fort, 11-15-13
+Turtwig, 2020-02-12, FortWashington, _Fort, 10-14-15
+Grotle, 2020-05-24, Oreland, _Fort, 13-10-15
+Chimchar, 2020-05-23, FortWashington, _Fort, 15-13-15
+Chimchar, 2020-02-10, Philadelphia, _Phila, 14-13-13
+Monferno, 2020-05-24, Ambler, _Fort, 13-12-12
+Monferno, 2020-05-24, Ambler, _Fort, 13-12-12
+Piplup, 2020-01-19, Ambler, _Fort, 11-15-14
+Piplup, 2020-02-09, FortWashington, _Fort, 14-13-11
+Prinplup, 2020-01-19, FortWashington, _Fort, 14-11-12
+Prinplup, 2020-01-22, Ambler, _Fort, 13-13-11
+Empoleon, 2020-01-19, FortWashington, _Fort, 13-12-12
+Empoleon, 2020-01-19, FortWashington, _Fort, 13-12-12
+Empoleon, 2020-01-19, FortWashington, _Fort, 14-12-14
+Bibarel, 2019-08-28, Pittsburgh, _Pitt, 14-15-14
+Bibarel, 2019-08-28, Pittsburgh, _Pitt, 14-15-14
+Kricketot, 2020-02-09, FortWashington, _Fort, 11-13-14
+Shinx, 2019-09-06, Pittsburgh, _Pitt, 14-15-12
+Shinx, 2020-05-10, Philadelphia, _Phila, 14-13-14
+Shinx, 2020-05-28, NorthWildwood, _NJ, 14-12-13
+Shinx, 2020-05-09, Oreland, _Fort, 13-13-12
+Shinx, 2020-05-25, Oreland, _Fort, 11-14-13
+Shinx, 2020-05-16, NorthWildwood, _NJ, 14-10-14
+Cranidos, 2019-09-03, Pittsburgh, _Pitt, 13-11-15
+Cranidos, 2019-08-22, Boston, _MA, 10-14-13
+Cranidos, 2020-05-24, Oreland, _Fort, 11-15-12
+Shieldon, 2020-02-16, FortWashington, _Fort, 12-13-12
+Burmy, 2019-12-06, Pittsburgh, _Pitt, 13-15-13
+Burmy, 2020-05-24, Oreland, _Fort, 12-11-14
+Combee, 2019-09-17, Pittsburgh, _Pitt, 15-15-14
+Combee, 2020-05-24, Oreland, _Fort, 10-14-15
+Buizel, 2020-02-06, FortWashington, _Fort, 13-15-14
+Cherrim, 2020-05-29, MiddleTownship, _NJ, 15-15-14
+Cherrim, 2019-09-09, Pittsburgh, _Pitt, 15-14-13
+Cherrim, 2019-09-09, Pittsburgh, _Pitt, 15-14-13
+Cherrim, 2019-11-17, StateCollege, _PA, 8-15-14
+Mismagius, 2019-10-20, Pittsburgh, _Pitt, 13-15-15
+Honchkrow, 2019-09-02, Pittsburgh, _Pitt, 13-13-14
+Glameow, 2020-05-30, NorthWildwood, _NJ, 10-14-13
+Chingling, 2019-09-04, Pittsburgh, _Pitt, 13-15-11
+Stunky, 2019-12-31, Pittsburgh, _Pitt, 11-15-11
+Bronzor, 2020-05-26, FortWashington, _Fort, 15-13-10
+Bronzor, 2019-09-11, Pittsburgh, _Pitt, 10-12-15
+Hippopotas, 2019-08-04, Philadelphia, _Phila, 14-14-13
+Hippopotas, 2020-02-08, FortWashington, _Fort, 13-15-9
+Hippopotas, 2020-05-26, Oreland, _Fort, 15-10-14
+Hippopotas, 2020-02-09, FortWashington, _Fort, 13-12-13
+Hippopotas, 2020-02-09, FortWashington, _Fort, 12-15-11
+Hippopotas, 2020-02-09, FortWashington, _Fort, 12-15-11
+Skorupi, 2019-10-08, Pittsburgh, _Pitt, 9-9-9
+Skorupi, 2019-10-08, Pittsburgh, _Pitt, 11-15-13
+Croagunk, 2020-05-24, FortWashington, _Fort, 13-14-15
+Croagunk, 2019-08-20, SpringfieldTownship, _PA, 15-11-15
+Finneon, 2019-08-01, Washington, _WA, 13-12-14
+Snover, 2020-01-09, ForWashington, _PA, 11-15-14
+Snover, 2020-01-01, Philadelphia, _Phila, 15-14-10
+Snover, 2020-01-01, Oreland, _Fort, 13-15-10
+Rhyperior, 2020-02-22, FortWashington, _Fort, 15-14-13
+Rhyperior, 2019-08-06, Washington, _WA, 13-14-13
+Rhyperior, 2020-02-22, FortWashington, _Fort, 13-14-15
+Rhyperior, 2020-02-22, FortWashington, _Fort, 9-14-15
+Electivire, 2019-07-31, Washington, _WA, 13-14-14
+Mamoswine, 2019-10-10, Pittsburgh, _Pitt, 14-12-12
+Probopass, 2019-10-20, Pittsburgh, _Pitt, 12-14-15
+Heatran, 2020-01-19, FortWashington, _Fort, 12-15-14
+Giratina, 2019-10-12, Pittsburgh, _Pitt, 15-14-12
+Giratina, 2019-10-12, Pittsburgh, _Pitt, 11-15-14
+Cresselia, 2020-05-28, NorthWildwood, _NJ, 12-15-10
+Tepig, 2020-01-01, WestChester, _PA, 15-15-11
+Tepig, 2020-02-14, NewYork, _NY, 12-15-13
+Tepig, 2020-02-22, Ambler, _Fort, 12-15-12
+Tepig, 2020-02-08, Oreland, _Fort, 13-14-10
+Oshawott, 2020-05-14, NorthWildwood, _NJ, 14-11-14
+Oshawott, 2020-06-01, Philadelphia, _Phila, 15-11-11
+Oshawott, 2020-05-16, NorthWildwood, _NJ, 15-10-12
+Oshawott, 2020-05-29, NorthWildwood, _NJ, 11-12-15
+Oshawott, 2020-05-29, NorthWildwood, _NJ, 11-12-15
+Patrat, 2020-02-20, Philadelphia, _Phila, 8-8-8
+Lillipup, 2020-01-19, FortWashington, _Fort, 11-13-14
+Panpour, 2020-01-19, Pittsburgh, _Pitt, 15-11-14
+Tranquill, 2019-10-16, Pittsburgh, _Pitt, 13-15-10
+Blitzle, 2020-05-10, Oreland, _Fort, 14-13-15
+Woobat, 2020-02-16, Philadelphia, _Phila, 11-15-15
+Drilbur, 2019-09-25, Pittsburgh, _Pitt, 13-11-14
+Drilbur, 2019-10-01, Pittsburgh, _Pitt, 13-12-12
+Timburr, 2020-05-10, Philadelphia, _Phila, 14-13-15
+Timburr, 2020-05-10, Philadelphia, _Phila, 14-13-15
+Venipede, 2020-05-13, Oreland, _Fort, 14-14-13
+Whirlipede, 2020-01-26, FortWashington, _Fort, 14-15-15
+Scraggy, 2020-02-09, Oreland, _Fort, 10-15-14
+Scraggy, 2020-02-09, Oreland, _Fort, 10-15-14
+Yamask, 2019-12-11, Pittsburgh, _Pitt, 15-15-12
+Karrablast, 2020-05-03, FortWashington, _Fort, 13-11-15
+Foongus, 2019-11-21, Pittsburgh, _Pitt, 15-10-15
+Ferroseed, 2019-10-20, Pittsburgh, _Pitt, 13-11-15
+Klang, 2019-10-16, Pittsburgh, _Pitt, 15-10-15
+Cubchoo, 2019-12-29, WestChester, _PA, 15-12-11
+Cryogonal, 2020-06-08, Philadelphia, _Phila, 10-12-15
+Stunfisk, 2020-05-30, NorthWildwood, _NJ, 15-11-12
+Stunfisk, 2020-06-08, FortWashington, _Fort, 15-14-12
+Stunfisk, 2020-06-08, FortWashington, _Fort, 15-14-12
+
+
+RELABLING WITH IVS - 18/06/2020 18:50:11
+-----------------
+
+RELABLING WITH IVS - 18/06/2020 18:51:07
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 18:51:59
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 18:52:30
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 18:53:03
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 18:53:07
+---------------------Vibrava, 2020-06-18, FortWashington, _Fort, 10-10-10
+
+
+RELABLING WITH IVS - 18/06/2020 18:53:57
+---------------------Vibrava, 2020-06-18, FortWashington, _Fort, 10-10-10
+
+
+RELABLING WITH IVS - 18/06/2020 18:55:17
+---------------------Vibrava, 2020-06-18, FortWashington, _Fort, 10-10-10
+
+
+RELABLING WITH IVS - 18/06/2020 18:56:16
+---------------------Koffing, 2020-06-18, FortWashington, _Fort, 6-6-4
+
+
+RELABLING WITH IVS - 18/06/2020 18:57:28
+---------------------Vibrava, 2020-06-18, FortWashington, _Fort, 10-10-10
+
+
+RELABLING WITH IVS - 18/06/2020 18:58:43
+---------------------Vibrava, 2020-06-18, FortWashington, _Fort, 10-10-10
+Koffing, 2020-06-18, FortWashington, _Fort, 6-6-4
+
+
+RELABLING WITH IVS - 18/06/2020 18:59:47
+---------------------Shelmet, 2020-06-01, FortWashington, _Fort, 7-15-4
+Clamperl, 2020-06-01, Wildwood, _NJ, 13-10-14
+Oshawott, 2020-06-01, Philadelphia, _Phila, 15-10-10
+Dwebble, 2020-06-02, Wildwood, _NJ, 10-9-10
+Chikorita, 2020-06-07, FortWashington, _Fort, 14-15-9
+
+
+RELABLING WITH IVS - 18/06/2020 19:03:07
+---------------------Vibrava, 2020-06-18, FortWashington, _Fort, 10-10-10
+
+
+RELABLING WITH IVS - 18/06/2020 19:03:36
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:06:08
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:07:10
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:07:53
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:08:05
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:10:23
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:10:43
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:10:54
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:12:10
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:12:46
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:13:19
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:14:14
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:14:36
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:15:21
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:15:45
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:16:06
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:16:31
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:17:33
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:18:35
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:19:05
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:19:33
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:19:53
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:20:39
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:21:14
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:21:31
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:22:12
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:25:08
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:25:35
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:27:31
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:28:06
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:28:53
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:29:12
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:30:33
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:35:12
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:37:00
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:42:14
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:42:41
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:46:25
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:46:43
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:47:09
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:47:25
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:47:43
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:48:08
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:48:34
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:49:15
+---------------------Stunfisk, 2020-06-08, FortWashington, _Fort, 15-14-12
+Chikorita, 2020-06-07, FortWashington, _Fort, 15-15-10
+
+
+RELABLING WITH IVS - 18/06/2020 19:52:39
+---------------------Stunfisk, 2020-06-08, Philadelphia, _Phila, 13-14-9
+Stunfisk, 2020-06-08, FortWashington, _Fort, 15-14-12
+Chikorita, 2020-06-07, FortWashington, _Fort, 15-15-10
+
+
+RELABLING WITH IVS - 18/06/2020 19:55:53
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:56:14
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:56:37
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:57:00
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 19:57:31
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:12:16
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:12:27
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:12:53
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:18:59
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:19:47
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:35:55
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:36:12
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:36:44
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:39:21
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:40:12
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:41:05
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:41:35
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:55:07
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:55:41
+---------------------
+
+RELABLING WITH IVS - 18/06/2020 20:56:08
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:36:59
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:39:31
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:41:23
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:42:00
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:42:36
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:42:53
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:43:33
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:44:13
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:44:24
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:44:55
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:45:22
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:45:54
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:46:19
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:46:45
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:47:20
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:48:54
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:49:57
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:50:23
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:51:19
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:51:45
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:52:31
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 17:58:04
+---------------------
+
+RELABLING WITH IVS - 21/06/2020 18:05:11
+---------------------Sunkern, 2020-06-21, MiddleTownship, _NJ, 7-1-3
+Dwebble, 2020-06-21, MiddleTownship, _NJ, 9-8-12
+Geodude, 2020-06-21, MiddleTownship, _NJ, 9-14-10
+Weedle, 2020-06-20, MiddleTownship, _NJ, 8-1-0
+Lileep, 2020-06-20, MiddleTownship, _NJ, 14-4-15
+Weedle, 2020-06-20, MiddleTownship, _NJ, 15-3-6
+Weedle, 2020-06-20, MiddleTownship, _NJ, 14-9-2
+Weedle, 2020-06-20, MiddleTownship, _NJ, 14-9-2
+Weedle, 2020-06-20, MiddleTownship, _NJ, 11-5-13
+Weedle, 2020-06-20, MiddleTownship, _NJ, 9-10-5
+
+
+RELABLING WITH IVS - 21/06/2020 18:30:29
+---------------------Solrock, 2020-06-21, MiddleTownship, _NJ, 8-11-12
+Sunkern, 2020-06-21, MiddleTownship, _NJ, 7-1-3
+Dwebble, 2020-06-21, MiddleTownship, _NJ, 9-8-12
+Geodude, 2020-06-21, MiddleTownship, _NJ, 9-14-10
+Weedle, 2020-06-20, MiddleTownship, _NJ, 8-1-0
+Lileep, 2020-06-20, MiddleTownship, _NJ, 14-4-15
+Weedle, 2020-06-20, MiddleTownship, _NJ, 15-3-6
+Weedle, 2020-06-20, MiddleTownship, _NJ, 14-9-2
+Weedle, 2020-06-20, MiddleTownship, _NJ, 11-5-13
+Weedle, 2020-06-20, MiddleTownship, _NJ, 9-10-5
+Weedle, 2020-06-20, MiddleTownship, _NJ, 9-9-5
+Weedle, 2020-06-20, MiddleTownship, _NJ, 10-8-2
+Purrloin, 2020-06-19, Philadelphia, _Phila, 12-11-14
+Vibrava, 2020-06-18, FortWashington, _Fort, 11-11-11
+Farfetch'd, 2020-06-18, FortWashington, _Fort, 10-6-13
+Farfetch'd, 2020-06-18, FortWashington, _Fort, 9-13-11
+Farfetch'd, 2020-06-18, FortWashington, _Fort, 11-15-5
+Farfetch'd, 2020-06-18, FortWashington, _Fort, 8-9-15
+Farfetch'd, 2020-06-18, FortWashington, _Fort, 15-12-9
+Farfetch'd, 2020-06-18, FortWashington, _Fort, 10-14-14
+Nosepass, 2020-06-18, FortWashington, _Fort, 14-11-6
+Farfetch'd, 2020-06-17, FortWashington, _Fort, 3-13-4
+Cubchoo, 2020-06-17, FortWashington, _Fort, 14-13-12
+Azumarill, 2020-06-17, FortWashington, _Fort, 12-10-10
+Farfetch'd, 2020-06-17, FortWashington, _Fort, 5-12-7
+Farfetch'd, 2020-06-17, FortWashington, _Fort, 2-10-2
+Swablu, 2020-06-17, Ambler, _Fort, 11-12-14
+Farfetch'd, 2020-06-17, FortWashington, _Fort, 1-13-15
+Karrablast, 2020-06-17, FortWashington, _Fort, 3-9-3
+Meowth, 2020-06-16, FortWashington, _Fort, 13-10-14
+Karrablast, 2020-06-16, FortWashington, _Fort, 3-1-8
+Seedot, 2020-06-16, FortWashington, _Fort, 15-8-15
+Charmander, 2020-06-15, FortWashington, _Fort, 13-14-9
+Kabuto, 2020-06-15, MiddleTownship, _NJ, 8-14-9
+Mantine, 2020-06-15, MiddleTownship, _NJ, 14-2-7
+Slugma, 2020-06-14, MiddleTownship, _NJ, 14-15-12
+Slugma, 2020-06-14, MiddleTownship, _NJ, 14-15-12
+Zigzagoon, 2020-06-13, Hendrik-ldo-Ambacht, _N/A, 10-11-13
+Meltan, 2020-06-13, NorthWildwood, _NJ, 10-11-13
+Exeggcute, 2020-06-13, MiddleTownship, _NJ, 12-14-11
+Wailmer, 2020-06-13, MiddleTownship, _NJ, 14-4-8
+Krabby, 2020-06-13, MiddleTownship, _NJ, 8-6-9
+Wailmer, 2020-06-13, MiddleTownship, _NJ, 11-5-7
+Wailmer, 2020-06-13, MiddleTownship, _NJ, 15-8-5
+Slugma, 2020-06-13, MiddleTownship, _NJ, 15-10-15
+Bulbasaur, 2020-06-13, MiddleTownship, _NJ, 13-11-13
+Geodude, 2020-06-13, MiddleTownship, _NJ, 14-15-15
+Misdreavus, 2020-06-13, MiddleTownship, _NJ, 7-10-8
+Misdreavus, 2020-06-13, MiddleTownship, _NJ, 7-10-8
+Numel, 2020-06-12, MiddleTownship, _NJ, 12-15-15
+Carvanha, 2020-06-12, Philadelphia, _Phila, 6-3-15
+Trapinch, 2020-06-12, Oreland, _Fort, 14-14-15
+Basculin, 2020-06-11, FortWashington, _Fort, 14-2-11
+Basculin, 2020-06-11, FortWashington, _Fort, 14-2-11
+Woobat, 2020-06-10, FortWashington, _Fort, 2-5-1
+Aerodactyl, 2020-06-10, Oreland, _Fort, 13-15-10
+Roselia, 2020-06-10, FortWashington, _Fort, 10-8-12
+Slakoth, 2020-06-10, FortWashington, _Fort, 11-12-6
+Basculin, 2020-06-10, FortWashington, _Fort, 2-15-8
+Basculin, 2020-06-10, FortWashington, _Fort, 2-15-8
+Buneary, 2020-06-10, FortWashington, _Fort, 14-9-14
+Eevee, 2020-06-10, FortWashington, _Fort, 10-10-10
+Eevee, 2020-06-10, FortWashington, _Fort, 10-10-10
+Shuckle, 2020-06-10, FortWashington, _Fort, 15-13-11
+Timburr, 2020-06-10, FortWashington, _Fort, 11-15-15
+Cherrim, 2020-06-10, FortWashington, _Fort, 2-15-13
+Cherrim, 2020-06-10, FortWashington, _Fort, 2-15-13
+Purrloin, 2020-06-09, Philadelphia, _Phila, 13-13-13
+Patrat, 2020-06-09, FortWashington, _Fort, 13-14-14
+Gothita, 2020-06-09, Oreland, _Fort, 15-11-13
+Meowth, 2020-06-09, Oreland, _Fort, 10-13-12
+Shroomish, 2020-06-08, FortWashington, _Fort, 14-11-12
+Minccino, 2020-06-08, Philadelphia, _Phila, 11-14-10
+Venipede, 2020-06-08, Philadelphia, _Phila, 15-5-14
+Phanpy, 2020-06-08, Philadelphia, _Phila, 13-6-14
+Eevee, 2020-06-08, Philadelphia, _Phila, 13-15-14
+Tepig, 2020-06-08, Philadelphia, _Phila, 9-9-13
+Cryogonal, 2020-06-08, Philadelphia, _Phila, 10-12-15
+
+
+RELABLING WITH IVS - 22/06/2020 16:36:44
+---------------------Vulpix, 2020-05-24, FortWashington, _Fort, 4-10-14
+
+
+RELABLING FOR TRADES - 22/06/2020 16:37:23
+---------------------Vulpix, 2020-05-24, FortWashington, _Fort, 4-10-14
+Golbat, 2020-05-24, FortWashington, _Fort, 8-5-11
+Raichu, 2019-08-02, FortWashington, _Fort, 3-15-13
+Wailmer, 2020-05-24, FortWashington, _Fort, 0-8-9
+Wailmer, 2020-05-24, FortWashington, _Fort, 4-12-11
+Magikarp, 2020-05-24, Oreland, _Fort, 12-14-10
+Chansey, 2020-05-05, NewYork, _NY, 4-9-4
+Torchic, 2020-05-20, FortWashington, _Fort, 11-9-11
+Chinchou, 2020-05-18, KittianVillage, _N/A, 11-10-12
+
+
+RELABLING WITH IVS - 22/06/2020 16:41:49
+---------------------Trapinch, 2020-06-22, NorthWildwood, NJ, 15-12-12
+Growlithe, 2020-06-22, MiddleTownship, NJ, 5-15-12
+Barboach, 2020-06-22, MiddleTownship, NJ, 3-3-14
+Lunatone, 2020-06-22, MiddleTownship, NJ, 10-4-7
+Lunatone, 2020-06-22, MiddleTownship, NJ, 10-4-7
+Basculin, 2020-06-22, MiddleTownship, NJ, 15-10-12
+Solrock, 2020-06-21, MiddleTownship, NJ, 8-11-12
+Sunkern, 2020-06-21, MiddleTownship, NJ, 7-1-3
+Dwebble, 2020-06-21, MiddleTownship, NJ, 9-8-12
+
+
+RELABLING WITH IVS - 22/06/2020 16:46:18
+---------------------
+
+RELABLING WITH IVS - 22/06/2020 16:47:35
+---------------------Geodude, 2019-12-14, Philadelphia, Phila, 14-13-15
+
+
+RELABLING WITH IVS - 22/06/2020 16:50:46
+---------------------Scyther, 2020-05-27, Pittsburgh, Pitt, 10-11-14
+
+
+RELABLING WITH IVS - 22/06/2020 16:52:47
+---------------------Chikorita, 2020-06-07, FortWashington, Fort, 14-15-10
+
+
+RELABLING WITH IVS - 22/06/2020 16:58:04
+---------------------Makuhita, 2019-09-18, Pittsburgh, Pitt, 13-14-13
+
+
+RELABLING WITH IVS - 22/06/2020 17:04:47
+---------------------Groudon, 2019-11-13, Pittsburgh, Pitt, 12-10-11
+
+
+RELABLING WITH IVS - 22/06/2020 17:05:40
+---------------------Piplup, 2020-01-19, FortWashington, Fort, 4-12-12
+
+
+RELABLING WITH IVS - 22/06/2020 17:14:07
+---------------------Oshawott, 2020-06-01, Philadelphia, Phila, 15-11-11
+Oshawott, 2020-05-16, NorthWildwood, NJ, 15-10-12
+
+
+RELABLING WITH IVS - 22/06/2020 17:16:26
+---------------------
+
+RELABLING WITH IVS - 22/06/2020 17:18:33
+---------------------
+
+RELABLING WITH IVS - 22/06/2020 17:21:29
+---------------------
+
+RELABLING FOR TRADES - 22/06/2020 17:21:39
+---------------------Raichu, 2019-08-02, FortWashington, Fort, 3-15-13
+Sandshrew, 2020-05-10, FortWashington, Fort, 3-0-3
+
+
+RELABLING FOR TRADES - 22/06/2020 17:22:21
+---------------------Raichu, 2019-08-02, FortWashington, Fort, 3-15-13
+Sandshrew, 2020-05-10, FortWashington, Fort, 3-0-3
+
+
+RELABLING FOR TRADES - 22/06/2020 17:23:10
+---------------------Vulpix, 2020-05-24, FortWashington, Fort, 4-10-14
+Golbat, 2020-05-24, FortWashington, Fort, 8-5-11
+Venonat, 2020-05-07, Ambler, Fort, 13-12-14
+Persian, 2019-09-03, Philadelphia, Phila, 15-10-13
+Growlithe, 2020-06-22, MiddleTownship, NJ, 5-15-12
+Abra, 2020-04-25, FortWashington, Fort, 11-10-10
+Abra, 2020-04-25, FortWashington, Fort, 9-9-13
+Abra, 2020-04-25, FortWashington, Fort, 13-15-11
+Abra, 2020-04-25, FortWashington, Fort, 14-12-11
+Abra, 2020-04-25, FortWashington, Fort, 14-12-11
+Geodude, 2020-06-21, MiddleTownship, NJ, 9-14-10
+Farfetch'd, 2020-06-17, FortWashington, Fort, 1-13-15
+Farfetch'd, 2020-06-18, FortWashington, Fort, 9-13-11
+Farfetch'd, 2020-06-18, FortWashington, Fort, 11-15-5
+Farfetch'd, 2020-06-17, FortWashington, Fort, 3-13-4
+Farfetch'd, 2020-06-17, FortWashington, Fort, 2-10-2
+Farfetch'd, 2020-06-18, FortWashington, Fort, 8-9-15
+Farfetch'd, 2020-06-18, FortWashington, Fort, 10-6-13
+Farfetch'd, 2020-06-17, FortWashington, Fort, 5-12-7
+Krabby, 2020-06-13, MiddleTownship, NJ, 8-6-9
+Krabby, 2020-05-10, FortWashington, Fort, 1-13-13
+Krabby, 2020-05-10, FortWashington, Fort, 15-3-6
+Krabby, 2020-05-17, MiddleTownship, NJ, 13-0-10
+Voltorb, 2019-09-05, Pittsburgh, Pitt, 11-13-14
+Voltorb, 2019-11-17, StateCollege, PA, 10-14-14
+Rhyhorn, 2019-11-20, Pittsburgh, Pitt, 11-13-15
+Rhyhorn, 2020-02-22, FortWashington, Fort, 11-13-15
+Rhyhorn, 2020-02-22, FortWashington, Fort, 13-11-13
+Rhyhorn, 2020-02-22, FortWashington, Fort, 13-13-12
+Rhyhorn, 2020-05-02, FortWashington, Fort, 12-12-13
+Rhyhorn, 2020-02-22, FortWashington, Fort, 15-13-10
+Rhyhorn, 2020-02-22, FortWashington, Fort, 12-13-13
+Rhyhorn, 2020-02-22, FortWashington, Fort, 11-13-14
+Rhyhorn, 2020-02-22, FortWashington, Fort, 12-12-13
+Chansey, 2020-02-17, Washington, WA, 15-3-4
+Chansey, 2020-05-05, NewYork, NY, 4-9-4
+Chansey, 2020-05-05, NewYork, NY, 4-9-4
+Chansey, 2019-07-31, Washington, WA, 3-8-6
+Chansey, 2020-02-16, Washington, WA, 8-8-6
+Tangela, 2020-05-06, Oreland, Fort, 10-12-13
+Horsea, 2020-05-10, FortWashington, Fort, 14-1-15
+Mr. Mime, 2020-05-10, FortWashington, Fort, 6-9-15
+Mr. Mime, 2020-05-10, Havertown, PA, 13-7-10
+Mr. Mime, 2020-05-10, Havertown, PA, 5-11-7
+Mr. Mime, 2020-05-10, FortWashington, Fort, 5-14-5
+Mr. Mime, 2020-05-10, FortWashington, Fort, 6-4-6
+Mr. Mime, 2020-05-10, FortWashington, Fort, 5-6-7
+Scyther, 2020-05-09, Hendrik-ldo-Ambacht, N/A, 12-11-11
+Magikarp, 2020-01-27, Pittsburgh, Pitt, 13-10-14
+Magikarp, 2020-01-27, Pittsburgh, Pitt, 13-10-14
+Magikarp, 2020-05-24, Oreland, Fort, 12-14-10
+Magikarp, 2020-01-24, Oreland, Fort, 10-13-15
+Lapras, 2020-05-06, Oreland, Fort, 14-14-10
+Lapras, 2020-01-09, Hershey, PA, 14-10-14
+Aerodactyl, 2019-10-03, Pittsburgh, Pitt, 12-10-13
+Aerodactyl, 2020-01-11, Ambler, Fort, 11-11-13
+Snorlax, 2020-02-11, FortWashington, Fort, 3-15-10
+Snorlax, 2020-02-11, FortWashington, Fort, 3-15-10
+Chikorita, 2020-05-09, FortWashington, Fort, 15-12-9
+Chikorita, 2020-05-24, FortWashington, Fort, 15-8-15
+Cyndaquil, 2020-02-22, FortWashington, Fort, 14-11-14
+Quilava, 2020-05-10, Oreland, Fort, 13-10-14
+Chinchou, 2020-05-18, KittianVillage, N/A, 11-10-12
+Togepi, 2019-09-30, NewOrleans, LA, 5-7-9
+Natu, 2020-05-09, FortWashington, Fort, 12-14-13
+Flaaffy, 2019-11-20, Pittsburgh, Pitt, 15-13-10
+Flaaffy, 2019-08-20, Cambridge, MA, 12-13-14
+Marill, 2020-05-10, FortWashington, Fort, 7-14-13
+Marill, 2020-05-17, MiddleTownship, NJ, 4-8-3
+Marill, 2020-05-17, MiddleTownship, NJ, 15-9-13
+Marill, 2020-05-10, FortWashington, Fort, 12-8-11
+Aipom, 2019-11-18, Pittsburgh, Pitt, 14-13-12
+Sunkern, 2020-06-21, MiddleTownship, NJ, 7-1-3
+Yanma, 2019-08-21, Boston, MA, 14-11-12
+Misdreavus, 2020-06-13, MiddleTownship, NJ, 7-10-8
+Dunsparce, 2020-05-07, Oreland, Fort, 11-11-15
+Gligar, 2019-09-10, Pittsburgh, Pitt, 13-12-14
+Teddiursa, 2019-11-20, Pittsburgh, Pitt, 15-14-9
+Skarmory, 2019-10-16, Pittsburgh, Pitt, 12-13-12
+Skarmory, 2020-05-10, Oreland, Fort, 12-12-13
+Houndour, 2019-08-30, MiddleTownship, NJ, 11-14-12
+Phanpy, 2020-06-08, Philadelphia, Phila, 13-6-14
+Stantler, 2020-01-22, Philadelphia, Phila, 11-2-12
+Miltank, 2020-02-15, NewYork, NY, 5-14-8
+Miltank, 2020-05-09, Oreland, Fort, 11-14-13
+Larvitar, 2020-01-19, FortWashington, Fort, 12-7-14
+Treecko, 2019-09-10, Pittsburgh, Pitt, 12-15-10
+Treecko, 2019-08-24, Harrisonville, PA, 11-14-14
+Torchic, 2020-05-20, FortWashington, Fort, 11-9-11
+Torchic, 2019-08-29, Boston, MA, 11-14-13
+Swellow, 2020-05-17, MiddleTownship, NJ, 14-9-15
+Wingull, 2020-05-17, FortWashington, Fort, 12-10-15
+Wingull, 2019-08-27, Philadelphia, Phila, 12-15-10
+Ralts, 2020-05-17, FortWashington, Fort, 4-9-10
+Ralts, 2020-02-14, NewYork, NY, 9-13-4
+Surskit, 2020-02-01, MiddleTownship, NJ, 12-12-13
+Shroomish, 2020-06-01, FortWashington, Fort, 14-13-4
+Shroomish, 2020-06-08, FortWashington, Fort, 14-11-12
+Shroomish, 2020-01-21, FortWashington, Fort, 9-15-13
+Slakoth, 2020-06-10, FortWashington, Fort, 11-12-6
+Slakoth, 2020-05-17, NorthWildwood, NJ, 13-12-14
+Whismur, 2019-11-17, StateCollege, PA, 15-9-13
+Makuhita, 2020-02-13, NewYork, NY, 12-12-14
+Nosepass, 2020-06-18, FortWashington, Fort, 14-11-6
+Lairon, 2020-05-15, Wildwood, NJ, 11-11-14
+Illumise, 2020-01-19, FortWashington, Fort, 5-4-11
+Roselia, 2020-06-10, FortWashington, Fort, 10-8-12
+Roselia, 2020-02-14, NewYork, NY, 10-11-13
+Gulpin, 2020-05-17, MiddleTownship, NJ, 11-15-13
+Swalot, 2020-05-17, FortWashington, Fort, 12-11-6
+Wailmer, 2020-05-16, NorthWildwood, NJ, 10-13-11
+Wailmer, 2020-06-13, MiddleTownship, NJ, 11-5-7
+Wailmer, 2020-06-13, MiddleTownship, NJ, 14-4-8
+Wailmer, 2020-05-24, FortWashington, Fort, 4-12-11
+Wailmer, 2020-05-24, FortWashington, Fort, 0-8-9
+Wailmer, 2020-06-13, MiddleTownship, NJ, 15-8-5
+Spoink, 2019-09-10, Pittsburgh, Pitt, 11-15-11
+Barboach, 2019-09-19, Pittsburgh, Pitt, 13-12-14
+Barboach, 2020-06-22, MiddleTownship, NJ, 3-3-14
+Baltoy, 2019-09-27, Pittsburgh, Pitt, 11-12-15
+Baltoy, 2019-09-27, Pittsburgh, Pitt, 11-12-15
+Lileep, 2020-06-20, MiddleTownship, NJ, 14-4-15
+Feebas, 2020-02-12, FortWashington, Fort, 11-12-13
+Feebas, 2020-01-19, FortWashington, Fort, 3-12-9
+Feebas, 2020-04-27, FortWashington, Fort, 5-0-11
+Castform, 2020-05-24, FortWashington, Fort, 14-5-12
+Absol, 2020-01-06, WestChester, PA, 10-12-11
+Clamperl, 2020-05-24, FortWashington, Fort, 0-11-3
+Bagon, 2020-01-19, FortWashington, Fort, 8-10-9
+Bagon, 2020-02-22, FortWashington, Fort, 9-1-1
+Beldum, 2020-02-13, NewYork, NY, 5-4-5
+Beldum, 2020-05-24, FortWashington, Fort, 0-8-15
+Metagross, 2020-04-28, Oreland, Fort, 14-10-10
+Chimchar, 2020-01-25, Ambler, Fort, 12-12-11
+Piplup, 2020-01-19, FortWashington, Fort, 12-15-6
+Piplup, 2020-05-22, FortWashington, Fort, 11-5-7
+Prinplup, 2020-01-19, FortWashington, Fort, 14-7-9
+Prinplup, 2020-01-19, FortWashington, Fort, 2-1-7
+Starly, 2020-02-14, NewYork, NY, 6-7-14
+Kricketune, 2020-01-27, Philadelphia, Phila, 14-11-2
+Kricketune, 2020-01-27, Philadelphia, Phila, 11-5-2
+Combee, 2020-02-22, FortWashington, Fort, 13-1-9
+Buizel, 2020-02-10, FortWashington, Fort, 15-5-12
+Cherrim, 2020-06-10, FortWashington, Fort, 2-15-13
+Cherrim, 2020-02-13, NewYork, NY, 7-13-6
+Cherrim, 2019-11-17, StateCollege, PA, 8-15-14
+Drifloon, 2020-05-26, Flourtown, Fort, 10-12-13
+Buneary, 2020-04-15, FortWashington, Fort, 1-6-4
+Glameow, 2020-05-22, FortWashington, Fort, 4-1-5
+Glameow, 2020-01-22, Philadelphia, Phila, 10-11-9
+Purugly, 2019-11-16, StateCollege, PA, 0-5-5
+Bronzor, 2020-05-26, FortWashington, Fort, 15-4-15
+Bronzor, 2020-02-09, Oreland, Fort, 11-12-13
+Bronzor, 2020-05-26, FortWashington, Fort, 11-7-15
+Bronzor, 2020-05-10, FortWashington, Fort, 10-5-15
+Bronzor, 2020-05-24, Ambler, Fort, 12-12-10
+Bronzor, 2020-05-26, FortWashington, Fort, 5-11-15
+Hippopotas, 2020-02-08, FortWashington, Fort, 13-15-9
+Hippopotas, 2020-05-24, FortWashington, Fort, 6-10-5
+Hippopotas, 2020-02-10, FortWashington, Fort, 10-14-12
+Hippopotas, 2020-02-09, FortWashington, Fort, 14-8-14
+Skorupi, 2020-03-09, Philadelphia, Phila, 6-5-2
+Croagunk, 2020-05-26, FortWashington, Fort, 14-13-5
+Finneon, 2020-01-21, FortWashington, Fort, 10-11-4
+Snover, 2020-01-01, Philadelphia, Phila, 15-14-10
+Snover, 2020-01-01, Oreland, Fort, 13-15-10
+Snivy, 2020-02-14, NewYork, NY, 11-10-15
+Tepig, 2020-02-22, FortWashington, Fort, 8-11-14
+Tepig, 2020-02-08, Oreland, Fort, 13-14-10
+Tepig, 2020-01-23, Hershey, PA, 12-11-11
+Tepig, 2020-06-08, Philadelphia, Phila, 9-9-13
+Lillipup, 2020-01-19, FortWashington, Fort, 9-7-9
+Lillipup, 2020-01-26, WestChester, PA, 10-11-10
+Purrloin, 2020-06-19, Philadelphia, Phila, 12-11-14
+Woobat, 2020-06-10, FortWashington, Fort, 2-5-1
+Tympole, 2020-02-13, NewYork, NY, 11-12-7
+Tympole, 2020-01-22, Philadelphia, Phila, 10-14-4
+Tympole, 2020-02-22, FortWashington, Fort, 14-2-0
+Throh, 2020-02-14, NewYork, NY, 7-0-8
+Venipede, 2020-06-08, Philadelphia, Phila, 15-5-14
+Venipede, 2020-05-30, Dresher, Fort, 10-14-10
+Venipede, 2020-02-13, NewYork, NY, 11-9-15
+Venipede, 2020-02-24, Underhill, VT, 10-12-11
+Venipede, 2020-04-26, FortWashington, Fort, 4-15-11
+Basculin, 2020-06-11, FortWashington, Fort, 14-2-11
+Basculin, 2020-06-10, FortWashington, Fort, 2-15-8
+Dwebble, 2020-06-21, MiddleTownship, NJ, 9-8-12
+Karrablast, 2020-06-17, FortWashington, Fort, 3-9-3
+Karrablast, 2020-06-16, FortWashington, Fort, 3-1-8
+Karrablast, 2020-02-25, Underhill, VT, 1-14-3
+Karrablast, 2020-01-19, FortWashington, Fort, 14-11-9
+Karrablast, 2020-01-19, FortWashington, Fort, 14-11-9
+Joltik, 2020-04-26, FortWashington, Fort, 8-2-8
+Shelmet, 2020-02-02, Philadelphia, Phila, 11-12-11
+Shelmet, 2020-02-02, Philadelphia, Phila, 11-12-11
+Shelmet, 2020-06-01, FortWashington, Fort, 8-15-5
+Heatmor, 2020-05-10, FortWashington, Fort, 3-5-9
+Heatmor, 2020-02-14, NewYork, NY, 8-8-4
+Heatmor, 2020-02-14, NewYork, NY, 8-8-4
+
+
+RELABLING WITH IVS - 23/06/2020 23:33:05
+---------------------Snubbull, 2020-06-23, FortWashington, Fort, 5-13-14
+Eevee, 2020-01-06, LosAngeles, CA, 3-15-13
+Gligar, 2020-05-12, FallCity, WA, 6-10-7
+Omanyte, 2020-03-26, Gifu, N/A, 9-5-14
+Geodude, 2020-06-10, Chelsea, MA, 12-5-15
+Feebas, 2020-01-11, Phoenix, AZ, 5-11-13
+Skarmory, 2019-05-31, Washington, WA, 3-6-13
+Rhyhorn, 2020-02-22, Washington, WA, 6-15-15
+Exeggutor, 2019-06-30, Washington, WA, 12-4-13
+Abra, 2020-05-31, Washington, WA, 8-11-6
+Machop, 2020-06-02, Washington, WA, 7-15-6
+Growlithe, 2020-06-01, Washington, WA, 14-10-4
+Growlithe, 2020-06-01, Washington, WA, 14-10-4
+Bagon, 2019-08-03, Washington, WA, 8-15-12
+Rhyhorn, 2020-02-22, Washington, WA, 3-12-8
+Clefairy, 2020-06-23, FortWashington, Fort, 7-15-15
+Clefairy, 2020-06-23, FortWashington, Fort, 10-15-15
+Clefairy, 2020-06-23, FortWashington, Fort, 5-5-2
+Swablu, 2020-06-23, FortWashington, Fort, 4-10-4
+Poochyena, 2020-06-23, FortWashington, Fort, 4-14-0
+Clefairy, 2020-06-23, FortWashington, Fort, 3-0-9
+Houndoom, 2020-06-23, FortWashington, Fort, 14-14-9
+Ralts, 2020-06-04, Washington, WA, 7-3-12
+Gyarados, 2020-01-29, Washington, WA, 6-12-7
+Porygon, 2020-02-17, Washington, WA, 5-15-15
+Eevee, 2020-03-14, Washington, WA, 14-11-12
+Golduck, 2019-06-13, Washington, WA, 6-12-3
+Escavalier, 2020-03-22, Ambler, Fort, 9-15-11
+Clefairy, 2020-06-23, FortWashington, Fort, 11-3-15
+Swablu, 2020-06-23, FortWashington, Fort, 13-13-15
+Swablu, 2020-06-23, FortWashington, Fort, 13-13-15
+Rattata, 2020-06-23, FortWashington, Fort, 7-15-13
+Turtwig, 2020-06-23, FortWashington, Fort, 8-14-12
+Vulpix, 2020-06-23, FortWashington, Fort, 10-4-14
+Exeggcute, 2020-06-23, FortWashington, Fort, 7-2-0
+Vulpix, 2020-06-23, FortWashington, Fort, 5-11-9
+Eevee, 2020-06-23, FortWashington, Fort, 9-8-7
+Magmar, 2020-06-23, Hammonton, NJ, 7-4-5
+Barboach, 2020-06-23, HamiltonTownship, NJ, 11-13-10
+Sunkern, 2020-06-23, MiddleTownship, NJ, 14-1-11
+Sunkern, 2020-06-23, MiddleTownship, NJ, 14-1-11
+Tepig, 2020-06-23, MiddleTownship, NJ, 4-0-7
+Lunatone, 2020-06-23, MiddleTownship, NJ, 6-5-13
+Vulpix, 2020-06-22, MiddleTownship, NJ, 8-11-3
+Trapinch, 2020-06-22, NorthWildwood, NJ, 15-12-12
